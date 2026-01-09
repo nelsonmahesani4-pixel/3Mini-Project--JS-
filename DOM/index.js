@@ -5,4 +5,8 @@ for(var i=0; i<div.childNodes.length; i++){
 if(div.childNodes[i].nodeType ==1){
     counter++;
 }}
-console.log("Number of element nodes in div1 is:", counter);    
+console.log("Number of element nodes in div1 is:", counter);   
+
+// var div=document.getElementById("div1");
+// console.log("div==>",div.lastChild.nodeName);
+
