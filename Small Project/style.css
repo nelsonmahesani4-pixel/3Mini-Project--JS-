@@ -1,0 +1,13 @@
+div{
+    margin:auto;
+    width:30%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: red;
+}
+#number Input{
+    margin-top:10px;
+    padding:5px;
+    border-radius:2px;
+}
